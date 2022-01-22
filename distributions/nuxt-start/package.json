@@ -57,7 +57,7 @@
   "dependencies": {
     "@nuxt/cli": "2.8.1",
     "@nuxt/core": "2.8.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "vue": "^2.6.10",
     "vue-meta": "^2.2.0",
     "vue-no-ssr": "^1.1.1",
